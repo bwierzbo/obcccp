@@ -1,5 +1,6 @@
 import { ReactNode } from 'react';
 
+
 import { AppProvider } from '@/app/provider';
 
 import '@/styles/globals.css';
